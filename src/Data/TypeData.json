@@ -1,0 +1,22 @@
+[
+    {
+        "typeName": "Planning",
+        "typeInput": "planning"
+    },
+    {
+        "typeName": "Regional",
+        "typeInput": "regional"
+    },
+    {
+        "typeName": "Micro",
+        "typeInput": "micro"
+    },
+    {
+        "typeName": "Contract",
+        "typeInput": "contract"
+    },
+    {
+        "typeName": "Brewpub",
+        "typeInput": "brewpub"
+    }
+]

@@ -1,0 +1,32 @@
+.single-brew{
+    float: left;
+    width: 30%;
+    height: 210px;
+    padding: 15px;
+    margin: 10px;
+    display: flex;
+    background-color: #fff;
+    border-radius: 15px;
+}
+.single-brew-img{
+    padding: 10px;
+}
+.single-brew-details{
+    padding: 0 10px;
+}
+.single-brew-details h3, h4, p{
+    font-weight: 500;
+    padding: 3px;
+}
+.single-brew-details button{
+    padding: 8px 16px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-image: linear-gradient(45deg, #ffcc00, #ffd11a, #ffd11a);
+    border-radius: 5px;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 10px;
+}
